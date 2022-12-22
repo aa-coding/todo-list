@@ -1,4 +1,4 @@
-import { showModal, makeListItems, listItems, editedItem } from "/index.js";
+import { showModal, makeListItems, listItems, editedItem } from "/todo-list/index.js";
 
 class Modal extends HTMLElement {
 
