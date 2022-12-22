@@ -212,8 +212,8 @@ class ListItem extends HTMLElement {
             <span class="item-num"></span>
             <p class="item-title"></p>
             <div class="item-btns">
-                <button class="delete-btn"><img src="/to-do-list/assets/delete_icon.svg"></button>
-                <button class="edit-btn"><img src="/to-do-list/assets/Edit_icon.svg"></button>
+                <button class="delete-btn"><img src="/todo-list/assets/delete_icon.svg"></button>
+                <button class="edit-btn"><img src="/todo-list/assets/Edit_icon.svg"></button>
             </div>
         </div>       
         `
