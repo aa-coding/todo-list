@@ -1,0 +1,3 @@
+# todo-list
+
+This vanilla JS project was solely a learning exercise. I practiced concepts and strategies such as toggling, modals, web components and form data. There is minimal attractive styling for CSS practice, but UI/UX considerations were entirely secondary / non-existent. Thus, from a User Interface / User Experience perspective, this app doesn't necessarily make much sense, and is a little rough around the edges. The mobile version is not polished either. So this app is not perfect, but it's live at https://aa-coding.github.io/todo-list/ because I learned what I needed to from this project and it's time to move on. Thank you to *all* who have generously offered their time and feedback to help me on my web dev journey. 
